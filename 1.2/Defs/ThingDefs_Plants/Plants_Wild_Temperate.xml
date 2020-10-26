@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <ThingDef ParentName="DeciduousTreeBase">
+        <defName>RG-AF_Plant_TreeAspenRed</defName>
+        <label>aspen tree</label>
+        <description>A temperate-biome tree known for its thin, white, paper-like bark.</description>
+        <graphicData>
+            <texPath>Things/Plant/RedTreeAspen</texPath>
+            <graphicClass>Graphic_Random</graphicClass>
+            <shadowData>
+                <volume>(0.15, 0.3, 0.1)</volume>
+                <offset>(-0.03,0,-0.44)</offset>
+            </shadowData>
+        </graphicData>
+        <statBases>
+            <Beauty>2</Beauty>
+            <Nutrition>1.25</Nutrition>
+        </statBases>
+        <ingestible />
+        <plant>
+            <growDays>20</growDays>
+            <harvestWork>800</harvestWork>
+            <harvestYield>27</harvestYield>
+            <leaflessGraphicPath>Things/Plant/TreeBirch_Leafless</leaflessGraphicPath>
+        </plant>
+    </ThingDef>
+
+    <ThingDef ParentName="DeciduousTreeBase">
+        <defName>RG-AF_Plant_TreeAspenYellow</defName>
+        <label>aspen tree</label>
+        <description>A temperate-biome tree known for its thin, white, paper-like bark.</description>
+        <graphicData>
+            <texPath>Things/Plant/YellowTreeAspen</texPath>
+            <graphicClass>Graphic_Random</graphicClass>
+            <shadowData>
+                <volume>(0.15, 0.3, 0.1)</volume>
+                <offset>(-0.03,0,-0.44)</offset>
+            </shadowData>
+        </graphicData>
+        <statBases>
+            <Beauty>2</Beauty>
+            <Nutrition>1.25</Nutrition>
+        </statBases>
+        <ingestible />
+        <plant>
+            <growDays>20</growDays>
+            <harvestWork>800</harvestWork>
+            <harvestYield>27</harvestYield>
+            <leaflessGraphicPath>Things/Plant/TreeBirch_Leafless</leaflessGraphicPath>
+        </plant>
+    </ThingDef>
+
+</Defs>

@@ -107,7 +107,11 @@
         </baseWeatherCommonalities>
         <wildPlants>
             <Plant_Grass>5.0</Plant_Grass>
-            <Plant_TallGrass>2.0</Plant_TallGrass>
+            <Plant_TallGrass>2.0</Plant_TallGrass>            
+			<RG-AF_Plant_TreeAspenRed>0.6</RG-AF_Plant_TreeAspenRed>
+			<RG-AF_Plant_TreeAspenYellow>0.6</RG-AF_Plant_TreeAspenYellow>
+							<Plant_TreePine>0.4</Plant_TreePine>
+                            <Plant_TreeBirch>0.4</Plant_TreeBirch>
         </wildPlants>
         <wildAnimals></wildAnimals>
         <allowedPackAnimals></allowedPackAnimals>
