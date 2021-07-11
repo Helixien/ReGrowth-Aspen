@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
 	<ThingDef ParentName="PlantBase">
@@ -108,7 +108,7 @@
 				<spawnCount>1</spawnCount>
 				<spawnIntervalRange>8000~16000</spawnIntervalRange>
 				<spawnMaxAdjacent>3</spawnMaxAdjacent>
-				<saveKeysPrefix>aspen leaves</saveKeysPrefix>
+				<saveKeysPrefix>aspenLeaves</saveKeysPrefix>
 			</li>
 		</comps>
 	</ThingDef>
@@ -143,7 +143,7 @@
 				<spawnCount>1</spawnCount>
 				<spawnIntervalRange>8000~16000</spawnIntervalRange>
 				<spawnMaxAdjacent>3</spawnMaxAdjacent>
-				<saveKeysPrefix>aspen leaves</saveKeysPrefix>
+				<saveKeysPrefix>aspenLeaves</saveKeysPrefix>
 			</li>
 		</comps>
 	</ThingDef>
