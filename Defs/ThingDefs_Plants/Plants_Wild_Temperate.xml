@@ -32,7 +32,7 @@
 	<ThingDef ParentName="BushBase">
 		<defName>RG-AF_Plant_AspenFern</defName>
 		<label>fern</label>
-		<description>A short shrub with long, fine leaves. Grows in forests in warmer areas.</description>
+		<description>A short shrub with long, fine leaves. Grows in forests in aspen forests.</description>
 		<graphicData>
 			<texPath>Things/Plant/AspenFern</texPath>
 			<drawSize>1.15</drawSize>
@@ -81,7 +81,7 @@
 	<ThingDef ParentName="DeciduousTreeBase">
 		<defName>RG-AF_Plant_TreeAspenRed</defName>
 		<label>aspen tree</label>
-		<description>A temperate-biome tree known for its thin, white, paper-like bark.</description>
+		<description>A genetically modified cold-biome tree known for its thin, white, paper-like bark and colourful leaves.</description>
 		<graphicData>
 			<texPath>Things/Plant/TreeRedAspen</texPath>
 			<graphicClass>Graphic_Random</graphicClass>
@@ -116,7 +116,7 @@
 	<ThingDef ParentName="DeciduousTreeBase">
 		<defName>RG-AF_Plant_TreeAspenYellow</defName>
 		<label>aspen tree</label>
-		<description>A temperate-biome tree known for its thin, white, paper-like bark.</description>
+		<description>A genetically modified cold-biome tree known for its thin, white, paper-like bark and colourful leaves.</description>
 		<graphicData>
 			<texPath>Things/Plant/TreeYellowAspen</texPath>
 			<graphicClass>Graphic_Random</graphicClass>
@@ -151,7 +151,7 @@
 	<ThingDef ParentName="PlantBase">
 		<defName>RG-AF_Plant_Deathbell</defName>
 		<label>deathbell</label>
-		<description>placeholder</description>
+		<description>A purple flower which grows in large clusters. It is said to grow where unfortunate deaths have taken place in the past.</description>
 		<statBases>
 			<MaxHitPoints>85</MaxHitPoints>
 			<Beauty>4</Beauty>
