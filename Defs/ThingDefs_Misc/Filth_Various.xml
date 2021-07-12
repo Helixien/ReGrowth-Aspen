@@ -9,7 +9,7 @@
 		</graphicData>
 		<hideAtSnowDepth>0.3</hideAtSnowDepth>
 		<filth>
-			<disappearsInDays>15~25</disappearsInDays>
+			<disappearsInDays>5~10</disappearsInDays>
 			<cleaningWorkToReduceThickness>35</cleaningWorkToReduceThickness>
 			<rainWashes>false</rainWashes>
 		</filth>
@@ -23,7 +23,7 @@
 		</graphicData>
 		<hideAtSnowDepth>0.3</hideAtSnowDepth>
 		<filth>
-			<disappearsInDays>15~25</disappearsInDays>
+			<disappearsInDays>5~10</disappearsInDays>
 			<cleaningWorkToReduceThickness>35</cleaningWorkToReduceThickness>
 			<rainWashes>false</rainWashes>
 		</filth>
