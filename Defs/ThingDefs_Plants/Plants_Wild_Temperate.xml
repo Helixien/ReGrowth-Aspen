@@ -106,7 +106,7 @@
 				<compClass>ReGrowthCore.CompLeavesSpawner</compClass>
 				<thingToSpawn>RG-AF_Filth_LeavesAspenRedTree</thingToSpawn>
 				<spawnCount>1</spawnCount>
-				<spawnIntervalRange>8000~16000</spawnIntervalRange>
+				<spawnIntervalRange>40000~90000</spawnIntervalRange>
 				<spawnMaxAdjacent>3</spawnMaxAdjacent>
 				<saveKeysPrefix>aspenLeaves</saveKeysPrefix>
 			</li>
@@ -141,7 +141,7 @@
 				<compClass>ReGrowthCore.CompLeavesSpawner</compClass>
 				<thingToSpawn>RG-AF_Filth_LeavesAspenYellowTree</thingToSpawn>
 				<spawnCount>1</spawnCount>
-				<spawnIntervalRange>8000~16000</spawnIntervalRange>
+				<spawnIntervalRange>40000~90000</spawnIntervalRange>
 				<spawnMaxAdjacent>3</spawnMaxAdjacent>
 				<saveKeysPrefix>aspenLeaves</saveKeysPrefix>
 			</li>
