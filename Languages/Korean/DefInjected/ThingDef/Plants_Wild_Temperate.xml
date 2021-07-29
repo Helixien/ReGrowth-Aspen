@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RG-AF_Plant_AspenGrass.label>잔디</RG-AF_Plant_AspenGrass.label>
+  <RG-AF_Plant_AspenGrass.description>야생 잔디입니다. 빛이 약하고 척박한 사시나무 숲 지역에서 자랍니다.</RG-AF_Plant_AspenGrass.description>
+
+  <RG-AF_Plant_AspenFern.label>관엽식물</RG-AF_Plant_AspenFern.label>
+  <RG-AF_Plant_AspenFern.description>길고 고운 이파리가 달린 짧은 관목입니다. 사시나무 숲에서 자랍니다.</RG-AF_Plant_AspenFern.description>
+
+  <RG-AF_Plant_AspenShrubs.label>관목</RG-AF_Plant_AspenShrubs.label>
+  <RG-AF_Plant_AspenShrubs.description>사시나무 숲에서 자라는 양탄자 같은 야생 관목입니다. 관목은 자라는 데 오래 걸리지만, 서리에 매우 잘 견딥니다.</RG-AF_Plant_AspenShrubs.description>
+
+  <RG-AF_Plant_TreeAspenRed.label>사시나무</RG-AF_Plant_TreeAspenRed.label>
+  <RG-AF_Plant_TreeAspenRed.description>유전적으로 변경한 추운 지방 나무로, 희고 종이처럼 얇은 나무껍질과 형형색색의 이파리가 특징적입니다.</RG-AF_Plant_TreeAspenRed.description>
+
+  <RG-AF_Plant_TreeAspenYellow.label>사시나무</RG-AF_Plant_TreeAspenYellow.label>
+  <RG-AF_Plant_TreeAspenYellow.description>유전적으로 변경한 추운 지방 나무로, 희고 종이처럼 얇은 나무껍질과 형형색색의 이파리가 특징적입니다.</RG-AF_Plant_TreeAspenYellow.description>
+
+  <RG-AF_Plant_Deathbell.label>죽음의 종</RG-AF_Plant_Deathbell.label>
+  <RG-AF_Plant_Deathbell.description>크게 무리지어 자라는 보라색 꽃입니다. 과거 불행한 죽음이 일어났던 곳에 자란다는 이야기가 있습니다.</RG-AF_Plant_Deathbell.description>
+
+  <RG-AF_Plant_RedMountainFlower.label>야생화</RG-AF_Plant_RedMountainFlower.label>
+  <RG-AF_Plant_RedMountainFlower.description>크게 무리지어 자라는 작고 빨간 꽃입니다.</RG-AF_Plant_RedMountainFlower.description>
+
+  <RG-AF_BogBeacon.label>습지등불버섯</RG-AF_BogBeacon.label>
+  <RG-AF_BogBeacon.description>무리지어 자라는 작고 빛나는 버섯입니다. 사시나무 숲에서만 자랍니다.</RG-AF_BogBeacon.description>
+
+
+</LanguageData>
