@@ -103,7 +103,7 @@
 		</plant>
 		<comps>
 			<li Class="CompProperties_Spawner">
-				<compClass>ReGrowthCore.CompLeavesSpawner</compClass>
+				<compClass>VFECore.CompLeavesSpawner</compClass>
 				<thingToSpawn>RG-AF_Filth_LeavesAspenRedTree</thingToSpawn>
 				<spawnCount>2</spawnCount>
 				<spawnIntervalRange>60000~120000</spawnIntervalRange>
@@ -138,7 +138,7 @@
 		</plant>
 		<comps>
 			<li Class="CompProperties_Spawner">
-				<compClass>ReGrowthCore.CompLeavesSpawner</compClass>
+				<compClass>VFECore.CompLeavesSpawner</compClass>
 				<thingToSpawn>RG-AF_Filth_LeavesAspenYellowTree</thingToSpawn>
 				<spawnCount>2</spawnCount>
 				<spawnIntervalRange>60000~120000</spawnIntervalRange>
