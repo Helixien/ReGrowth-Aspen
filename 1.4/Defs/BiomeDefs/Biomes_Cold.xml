@@ -57,7 +57,7 @@
 		</diseases>
 		<terrainsByFertility>
 			<li>
-				<terrain>Soil</terrain>
+				<terrain>RG_BorealSoil</terrain>
 				<min>-999</min>
 				<max>0.50</max>
 			</li>
