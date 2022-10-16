@@ -133,6 +133,9 @@
 			<Plant_Berry>0.07</Plant_Berry>
 			<RG_BogBeacon>0.05</RG_BogBeacon>
 			<Plant_HealrootWild>0.05</Plant_HealrootWild>
+			<Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">4</Plant_Ripthorn>
+			<Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">10</Plant_GrayGrass>
+			<Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">4</Plant_TreeGrayPine>
 		</wildPlants>
 		<wildAnimals>
 			<Yak>0.12</Yak>
@@ -157,6 +160,7 @@
 			<Cougar>0.07</Cougar>
 			<Lynx>0.07</Lynx>
 			<Warg>0.07</Warg>
+<!--			<RG_FrostbiteSpider>0.07</RG_FrostbiteSpider>-->
 		</wildAnimals>
 		<allowedPackAnimals>
 			<li>Muffalo</li>
