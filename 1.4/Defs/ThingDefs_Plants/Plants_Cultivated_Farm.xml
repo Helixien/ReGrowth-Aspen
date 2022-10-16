@@ -46,44 +46,4 @@
 			</li>
 		</comps>
 	</ThingDef>
-	<ThingDef ParentName="PlantBase">
-		<defName>RG_Plant_Waxcap</defName>
-		<label>waxcap</label>
-		<description>A pink bright mushroom growing in clusters. It grows exclusively in grassland biomes.</description>
-		<graphicData>
-			<texPath>Things/Plant/Waxcap</texPath>
-			<graphicClass>Graphic_Random</graphicClass>
-		</graphicData>
-		<statBases>
-			<MaxHitPoints>120</MaxHitPoints>
-			<Nutrition>0.4</Nutrition>
-			<Beauty>2</Beauty>
-			<BeautyOutdoors>2</BeautyOutdoors>
-		</statBases>
-		<selectable>true</selectable>
-		<neverMultiSelect>false</neverMultiSelect>
-		<pathCost>15</pathCost>
-		<ingestible/>
-		<plant>
-			<sowTags>
-				<li>Ground</li>
-				<li>Hydroponic</li>
-			</sowTags>
-			<sowResearchPrerequisites>
-				<li>RG_MushroomCultivation</li>
-			</sowResearchPrerequisites>
-			<fertilityMin>0.04</fertilityMin>
-			<fertilitySensitivity>0.15</fertilitySensitivity>
-			<growDays>18</growDays>
-			<maxMeshCount>4</maxMeshCount>
-			<dieIfLeafless>true</dieIfLeafless>
-			<harvestYield>30</harvestYield>
-			<harvestTag>Standard</harvestTag>
-			<harvestedThingDef>RawFungus</harvestedThingDef>
-			<neverBlightable>true</neverBlightable>
-			<visualSizeRange>0.3~0.5</visualSizeRange>
-			<topWindExposure>0.1</topWindExposure>
-			<purpose>Food</purpose>
-		</plant>
-	</ThingDef>
 </Defs>
