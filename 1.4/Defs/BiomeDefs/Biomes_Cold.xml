@@ -160,8 +160,14 @@
 			<Cougar>0.07</Cougar>
 			<Lynx>0.07</Lynx>
 			<Warg>0.07</Warg>
-<!--			<RG_FrostbiteSpider>0.07</RG_FrostbiteSpider>-->
+			<!--			<RG_FrostbiteSpider>0.07</RG_FrostbiteSpider>-->
 		</wildAnimals>
+		<pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech">
+			<WasteRat MayRequire="Ludeon.RimWorld.Biotech">1</WasteRat>
+			<Rat>0.5</Rat>
+			<Raccoon>0.25</Raccoon>
+			<Warg>0.05</Warg>
+		</pollutionWildAnimals>
 		<allowedPackAnimals>
 			<li>Muffalo</li>
 		</allowedPackAnimals>

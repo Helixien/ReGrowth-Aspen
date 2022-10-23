@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" ?>
-
 <Patch>
-
 	<Operation Class="PatchOperationFindMod">
 		<mods>
 			<li>World Map Beautification Project</li>
 		</mods>
 		<match Class="PatchOperationAddModExtension">
-			<xpath>/Defs/BiomeDef[defName = "RG-AF_AspenForest"]</xpath>
+			<xpath>/Defs/BiomeDef[defName = "RG_AspenForest"]</xpath>
 			<value>
-				<li Class = "BiomesKit.BiomesKitControls">
+				<li Class="BiomesKit.BiomesKitControls">
 					<forested>true</forested>
 					<uniqueHills>true</uniqueHills>
 					<forestSparseBelow>1100</forestSparseBelow>
@@ -23,5 +21,4 @@
 			</value>
 		</match>
 	</Operation>
-	
 </Patch>
