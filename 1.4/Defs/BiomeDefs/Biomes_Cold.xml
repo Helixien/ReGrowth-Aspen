@@ -6,7 +6,7 @@
 		<description>Forests of genetically modified aspen trees, keeping their colourful leaves nearly all year. Despite the harsh winters and colder summers, aspen forests sustain a diverse population of small and large animals.</description>
 		<workerClass>ReGrowthCore.BiomeWorker_AspenForest</workerClass>
 		<animalDensity>2.5</animalDensity>
-		<plantDensity>1.2</plantDensity>
+		<plantDensity>0.40</plantDensity>
 		<settlementSelectionWeight>1</settlementSelectionWeight>
 		<movementDifficulty>0.8</movementDifficulty>
 		<texture>World/Biomes/AspenForest</texture>
