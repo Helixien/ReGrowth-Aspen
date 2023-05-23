@@ -93,6 +93,8 @@
 		<plant>
 			<fertilitySensitivity>0.0</fertilitySensitivity>
 			<growDays>2.5</growDays>
+			<mustBeWildToSow>true</mustBeWildToSow>
+			<sowResearchPrerequisites/>
 			<sowTags>
 				<li>Ground</li>
 			</sowTags>
@@ -125,6 +127,8 @@
 		<plant>
 			<fertilitySensitivity>0.0</fertilitySensitivity>
 			<growDays>2.5</growDays>
+			<mustBeWildToSow>true</mustBeWildToSow>
+			<sowResearchPrerequisites/>
 			<sowTags>
 				<li>Ground</li>
 			</sowTags>
