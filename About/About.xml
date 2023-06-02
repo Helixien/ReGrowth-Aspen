@@ -7,10 +7,16 @@
 		<li>1.3</li>
 		<li>1.4</li>
 	</supportedVersions>
-	<modVersion>2.1-Inigo-rev1</modVersion>
+	<modVersion>2.1-Inigo-rev2</modVersion>
 	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2545774148</url>
 	<packageId>ReGrowth.BOTR.AspenForest</packageId>
-	<description>Check the workshop page for information.</description>
+	<description>ReGrowth is a mod deeply influenced by the philosophy of the Vanilla Expanded Series and the understanding how biomes work, what role they play in your game. Everything added was made to fit or mirror vanilla. From a simple UI texture to a new more complex system,being as performance and vanilla friendly is the main objective we have.
+
+Inspired by my favorite game, "Skyrim", Aspen Forests is a new biome filled with genetically engineered Aspen trees, new flowers and grass. It is beautiful, colourful and unique.
+
+Aspen Forests are a simple biome, there is no performance hungry code or new features you will only find there. Its goal is to add variety for the player.
+
+ReGrowth is designed to be as lightweight as possible, adding the minimum of new code required for its auditions to work.</description>
 	<modDependencies>
 		<li>
 			<packageId>ReGrowth.BOTR.Core</packageId>

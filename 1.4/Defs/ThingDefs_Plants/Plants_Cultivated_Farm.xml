@@ -26,6 +26,7 @@
 			<sowResearchPrerequisites>
 				<li>RG_MushroomCultivation</li>
 			</sowResearchPrerequisites>
+			<mustBeWildToSow>true</mustBeWildToSow>
 			<fertilityMin>0.04</fertilityMin>
 			<fertilitySensitivity>0.15</fertilitySensitivity>
 			<growDays>18</growDays>
