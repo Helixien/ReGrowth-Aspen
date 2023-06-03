@@ -132,6 +132,8 @@
 			<Plant_TreePine>0.2</Plant_TreePine>
 			<Plant_Berry>0.07</Plant_Berry>
 			<RG_BogBeacon>0.05</RG_BogBeacon>
+			<RG_Plant_BogBeacon>0.000000000000001</RG_Plant_BogBeacon>
+			<!--=============== Why the 0s? Because I cant lock them to a biome unless the value is greater than 0 because fuck me I gues... ==============-->
 			<Plant_HealrootWild>0.05</Plant_HealrootWild>
 			<Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">4</Plant_Ripthorn>
 			<Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">10</Plant_GrayGrass>
