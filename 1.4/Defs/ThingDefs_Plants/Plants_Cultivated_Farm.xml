@@ -22,6 +22,7 @@
 			<sowTags>
 				<li>Ground</li>
 				<li>Hydroponic</li>
+				<li>VPE_Mushroom</li>
 			</sowTags>
 			<sowResearchPrerequisites>
 				<li>RG_MushroomCultivation</li>
