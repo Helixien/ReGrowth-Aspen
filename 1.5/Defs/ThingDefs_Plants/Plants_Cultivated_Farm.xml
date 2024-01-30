@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="PlantBase">
+		<defName>RG_Plant_BogBeacon</defName>
+		<label>bog beacon</label>
+		<description>A glowing mushroom with a long stem growing in clusters. It grows exclusively in aspen forests.</description>
+		<graphicData>
+			<texPath>Things/Plant/BogBeacon</texPath>
+			<graphicClass>Graphic_Random</graphicClass>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>120</MaxHitPoints>
+			<Nutrition>0.4</Nutrition>
+			<Beauty>2</Beauty>
+			<BeautyOutdoors>2</BeautyOutdoors>
+		</statBases>
+		<selectable>true</selectable>
+		<neverMultiSelect>false</neverMultiSelect>
+		<pathCost>5</pathCost>
+		<ingestible/>
+		<plant>
+			<sowTags>
+				<li>Ground</li>
+				<li>Hydroponic</li>
+				<li>VPE_Mushroom</li>
+			</sowTags>
+			<sowResearchPrerequisites>
+				<li>RG_MushroomCultivation</li>
+			</sowResearchPrerequisites>
+			<mustBeWildToSow>true</mustBeWildToSow>
+			<fertilityMin>0.04</fertilityMin>
+			<fertilitySensitivity>0.15</fertilitySensitivity>
+			<growDays>18</growDays>
+			<maxMeshCount>4</maxMeshCount>
+			<dieIfLeafless>true</dieIfLeafless>
+			<harvestYield>12</harvestYield>
+			<harvestTag>Standard</harvestTag>
+			<harvestedThingDef>RawFungus</harvestedThingDef>
+			<neverBlightable>true</neverBlightable>
+			<visualSizeRange>0.5~0.8</visualSizeRange>
+			<topWindExposure>0.1</topWindExposure>
+			<purpose>Food</purpose>
+		</plant>
+		<comps>
+			<li Class="CompProperties_Glower">
+				<glowRadius>3</glowRadius>
+				<glowColor>(214,183,84,0)</glowColor>
+			</li>
+		</comps>
+	</ThingDef>
+</Defs>

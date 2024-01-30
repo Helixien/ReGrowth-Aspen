@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<ThingDef ParentName="RG_BaseFilthLeaves">
+		<defName>RG_Filth_LeavesAspenRedTree</defName>
+		<label>aspen leaves</label>
+		<graphicData>
+			<texPath>Things/Filth/LeavesRedAspen</texPath>
+		</graphicData>
+		<filth Inherit="False">
+			<disappearsInDays>5~10</disappearsInDays>
+			<cleaningWorkToReduceThickness>35</cleaningWorkToReduceThickness>
+			<rainWashes>false</rainWashes>
+		</filth>
+	</ThingDef>
+	<ThingDef ParentName="RG_BaseFilthLeaves">
+		<defName>RG_Filth_LeavesAspenYellowTree</defName>
+		<label>aspen leaves</label>
+		<graphicData>
+			<texPath>Things/Filth/LeavesYellowAspen</texPath>
+		</graphicData>
+		<filth Inherit="False">
+			<disappearsInDays>5~10</disappearsInDays>
+			<cleaningWorkToReduceThickness>35</cleaningWorkToReduceThickness>
+			<rainWashes>false</rainWashes>
+		</filth>
+	</ThingDef>
+</Defs>
