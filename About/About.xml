@@ -3,14 +3,13 @@
 	<name>ReGrowth: Aspen</name>
 	<author>Helixien</author>
 	<supportedVersions>
-		<li>1.2</li>
-		<li>1.3</li>
 		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
-	<modVersion>2.1-Inigo-rev4</modVersion>
-	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2545774148</url>
 	<packageId>ReGrowth.BOTR.AspenForest</packageId>
+	<url>https://steamcommunity.com/sharedfiles/filedetails/?id=2545774148</url>
+	<modVersion IgnoreIfNoMatchingField="True">2.1-Inigo-rev4</modVersion>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/RG_ModIcon</modIconPath>
 	<description>ReGrowth is a mod deeply influenced by the philosophy of the Vanilla Expanded Series and the understanding how biomes work, what role they play in your game. Everything added was made to fit or mirror vanilla. From a simple UI texture to a new more complex system,being as performance and vanilla friendly is the main objective we have.
 
 Inspired by my favorite game, "Skyrim", Aspen Forests is a new biome filled with genetically engineered Aspen trees, new flowers and grass. It is beautiful, colourful and unique.
@@ -26,13 +25,9 @@ ReGrowth is designed to be as lightweight as possible, adding the minimum of new
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2260097569</steamWorkshopUrl>
 		</li>
 	</modDependencies>
-	<loadAfter>
-		<li>brrainz.harmony</li>
-		<li>Ludeon.RimWorld</li>
-		<li>Ludeon.RimWorld.Royalty</li>
-		<li>VanillaExpanded.VCEF</li>
+	<forceLoadAfter>
 		<li>ReGrowth.BOTR.Core</li>
-	</loadAfter>
+	</forceLoadAfter>
 	<loadBefore>
 		<li>VanillaExpanded.VPlantsE</li>
 		<li>Balthoraz.RimUniverse.BiomesModule</li>
