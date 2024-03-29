@@ -114,7 +114,6 @@
 			<RG_Windy>8</RG_Windy>
 			<RG_Blizzard>0.5</RG_Blizzard>
 			<RG_Monsoon>0.5</RG_Monsoon>
-			<RG_Hail>1</RG_Hail>
 		</baseWeatherCommonalities>
 		<wildPlants>
 			<Plant_Grass>3.5</Plant_Grass>
