@@ -25,9 +25,9 @@ ReGrowth is designed to be as lightweight as possible, adding the minimum of new
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2260097569</steamWorkshopUrl>
 		</li>
 	</modDependencies>
-	<LoadAfter>
+	<loadAfter>
 		<li>ReGrowth.BOTR.Core</li>
-	</LoadAfter>
+	</loadAfter>
 	<loadBefore>
 		<li>VanillaExpanded.VPlantsE</li>
 		<li>Balthoraz.RimUniverse.BiomesModule</li>
