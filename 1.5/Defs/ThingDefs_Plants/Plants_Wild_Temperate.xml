@@ -202,6 +202,7 @@
 			<growDays>20</growDays>
 			<harvestWork>800</harvestWork>
 			<harvestYield>27</harvestYield>
+			<immatureGraphicPath>Things/Plant/_Immature/TreeYellowAspen_Immature</immatureGraphicPath>
 			<leaflessGraphicPath>Things/Plant/TreeBirch_Leafless</leaflessGraphicPath>
 		</plant>
 		<comps>
@@ -236,6 +237,7 @@
 			<growDays>20</growDays>
 			<harvestWork>800</harvestWork>
 			<harvestYield>27</harvestYield>
+			<immatureGraphicPath>Things/Plant/_Immature/TreeRedAspen_Immature</immatureGraphicPath>
 			<leaflessGraphicPath>Things/Plant/TreeBirch_Leafless</leaflessGraphicPath>
 		</plant>
 		<comps>
