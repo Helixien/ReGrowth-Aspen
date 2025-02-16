@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3492974789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 820414aa0d1b042546c3db311d07cf8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassB.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassD.psd
+- Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassC.psd
+- Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassB.psd
+- Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassD.psd
+- Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassA.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassC.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassA.psd
+Dependencies: []
