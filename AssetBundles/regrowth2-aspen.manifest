@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3783645677
+CRC: 4163498033
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0c93ed13ff45a5b0532a32f345e0150f
+    Hash: fa16f71cccbc7046537f241bbe5b43cb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7859cd501ea75098bcf7e53f1b477c26
@@ -13,24 +13,36 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/_Polluted/AspenShrubs_Polluted/AspenShrubs_PollutedA.psd
 - Assets/Data/2545774148/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerB.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerB.psd
 - Assets/Data/2545774148/Textures/Things/Plant/AspenShrubs/AspenShrubsB.psd
+- Assets/Data/2545774148/Textures/Things/Plant/_Polluted/AspenShrubs_Polluted/AspenShrubs_PollutedA.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/Deathbell/DeathbellC.psd
+- Assets/Data/2545774148/Textures/Things/Plant/_Leafless/AspenShrubs_Leafless/AspenShrubs_LeaflessC.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/_Leafless/AspenShrubs_Leafless/AspenShrubs_LeaflessA.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerA.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenShrubs/AspenShrubsC.psd
+- Assets/Data/2545774148/Textures/Things/Plant/_Leafless/AspenShrubs_Leafless/AspenShrubs_LeaflessA.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/_Polluted/AspenShrubs_Polluted/AspenShrubs_PollutedB.psd
 - Assets/Data/2545774148/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerA.psd
 - Assets/Data/2545774148/Textures/Things/Plant/Deathbell/DeathbellC.psd
+- Assets/Data/2545774148/Textures/Things/Plant/_Polluted/AspenShrubs_Polluted/AspenShrubs_PollutedB.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassB.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/_Leafless/AspenShrubs_Leafless/AspenShrubs_LeaflessB.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenShrubs/AspenShrubsB.psd
 - Assets/Data/2545774148/Textures/Things/Plant/Deathbell/DeathbellB.psd
+- Assets/Data/2545774148/Textures/Things/Plant/_Polluted/AspenShrubs_Polluted/AspenShrubs_PollutedC.psd
+- Assets/Data/2545774148/Textures/Things/Plant/_Leafless/AspenShrubs_Leafless/AspenShrubs_LeaflessB.psd
 - Assets/Data/2545774148/Textures/Things/Plant/Deathbell/DeathbellA.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/Deathbell/DeathbellB.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassD.psd
 - Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassC.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/_Polluted/AspenShrubs_Polluted/AspenShrubs_PollutedC.psd
 - Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassB.psd
 - Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassD.psd
 - Assets/Data/2545774148/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerC.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/_Leafless/AspenShrubs_Leafless/AspenShrubs_LeaflessC.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerC.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/Deathbell/DeathbellA.psd
 - Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassA.psd
