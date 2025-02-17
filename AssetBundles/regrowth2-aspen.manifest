@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3492974789
+CRC: 3783645677
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 820414aa0d1b042546c3db311d07cf8d
+    Hash: 0c93ed13ff45a5b0532a32f345e0150f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7859cd501ea75098bcf7e53f1b477c26
@@ -13,12 +13,30 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/Data/2545774148/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerB.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerB.psd
+- Assets/Data/2545774148/Textures/Things/Plant/AspenShrubs/AspenShrubsB.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/Deathbell/DeathbellC.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerA.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenShrubs/AspenShrubsC.psd
+- Assets/Data/2545774148/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerA.psd
+- Assets/Data/2545774148/Textures/Things/Plant/Deathbell/DeathbellC.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassB.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenShrubs/AspenShrubsB.psd
+- Assets/Data/2545774148/Textures/Things/Plant/Deathbell/DeathbellB.psd
+- Assets/Data/2545774148/Textures/Things/Plant/Deathbell/DeathbellA.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/Deathbell/DeathbellB.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassD.psd
 - Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassC.psd
 - Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassB.psd
 - Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassD.psd
+- Assets/Data/2545774148/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerC.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/RedMountainFlower/RedMountainFlowerC.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/Deathbell/DeathbellA.psd
 - Assets/Data/2545774148/Textures/Things/Plant/AspenGrass/AspenGrassA.psd
+- Assets/Data/2545774148/Textures/Things/Plant/AspenShrubs/AspenShrubsC.psd
+- Assets/Data/2545774148/Textures/Things/Plant/AspenShrubs/AspenShrubsA.psd
+- Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenShrubs/AspenShrubsA.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassC.psd
 - Assets/Data/ReGrowth2-Aspen/Textures/Things/Plant/AspenGrass/AspenGrassA.psd
 Dependencies: []

@@ -64,7 +64,8 @@
 			<fertilityMin>0.05</fertilityMin>
 			<fertilitySensitivity>0.2</fertilitySensitivity>
 			<growDays>15</growDays>
-			<leaflessGraphicPath>Things/Plant/_Leafless/AspenShrubs_Leafless</leaflessGraphicPath>
+			<leaflessGraphicPath>Things/Plant/_Leafless/RG_Shrubs_Leafless</leaflessGraphicPath>
+			<pollutedGraphicPath>Things/Plant/_Polluted/RG_Scrubs_Polluted</pollutedGraphicPath>
 			<harvestWork>75</harvestWork>
 			<maxMeshCount>4</maxMeshCount>
 			<wildClusterRadius>4</wildClusterRadius>
